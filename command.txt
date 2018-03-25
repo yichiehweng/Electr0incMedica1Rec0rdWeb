@@ -1,0 +1,7 @@
+ npx create-react-app electronic-medical-record
+ npm install --save react-router-dom
+ npm install --save-dev bootstrap
+ npm install --save axios
+
+ npm run build
+ npm start
